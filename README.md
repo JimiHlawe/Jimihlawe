@@ -12,6 +12,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354494/unity.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+
 
 <br />
 
