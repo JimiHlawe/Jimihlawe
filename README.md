@@ -71,7 +71,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 ---
 
 <details>
-  <summary><h3>👨‍💻 Jimi's Coding Journey</h3></summary>
+  <summary><h3>Coding Journey👨‍💻 </h3></summary>
 
 I am a third-year Computer Science student who loves to create and build new things with code.  
 My journey started from curiosity , I wanted to understand how apps and websites really work.  
