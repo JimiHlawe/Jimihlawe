@@ -78,7 +78,6 @@ I enjoy learning new technologies like C#, Java, JavaScript, SQL, and ASP.NET.
 I also like working on creative projects such as games in Unity and full-stack web apps.  
 My goal is to become a strong and creative developer who builds useful and smart systems.
 </details>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jimihlawe&style=for-the-badge&color=orange" alt="Profile views" />
