@@ -2,8 +2,7 @@
 <!-- Banner / Animation Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Jimi;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" 
-    alt="Typing Intro Animation" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" alt="Typing Intro Animation" />
 </p>
 
 <h1 align="center">🏄‍♂️ Jimi Hlawe</h1>
@@ -88,6 +87,6 @@ My goal is to become a strong and creative developer who builds useful and smart
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Made+with+love+by+Jimi+Hlawe;Keep+Learning.+Keep+Building.+Keep+Creating." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Keep+Learning.+Keep+Building.+Keep+Creating." 
     alt="Footer animation" />
 </p>
