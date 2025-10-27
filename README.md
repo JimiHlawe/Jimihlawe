@@ -15,7 +15,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373931/node2.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
