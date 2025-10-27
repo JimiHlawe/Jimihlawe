@@ -15,7 +15,6 @@ Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
 
----
 <h1 align="center">🧰 Languages and Tools</h1>
 
 <p align="center">
