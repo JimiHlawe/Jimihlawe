@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
 👯 I’m looking to collaborate on **open-source web or indie game projects**  
 🤔 I’m looking for help with **improving performance in large-scale web apps**  
-💬 Ask me about **ASP.NET, SQL, JavaScript, Unity, or project planning**  
-📫 How to reach me: **jimihlawe@gmail.com** or via **LinkedIn**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: I can spend hours debugging — but only minutes to find a creative idea for a new project 😄
+
 
 
 ### 📊 Stats
