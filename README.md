@@ -60,16 +60,16 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 <p align="center">
   <a href="https://discord.com/users/jimihlawe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/Jimihlawe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jimihlawe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jmelhlawe/" target="_blank">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="40" />
   </a>
 </p>
 
