@@ -14,9 +14,9 @@
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354494/unity.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 
 <br />
-
 <br />
 Here are some ideas to get you started:
 
