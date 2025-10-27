@@ -1,6 +1,9 @@
 <!-- Banner / Animation Header -->
+<!-- Banner / Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C45D&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Jimi+👋;Full-Stack+%26+Game+Developer;Turning+ideas+into+working+projects!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Jimi;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" 
+    alt="Typing Intro Animation" />
 </p>
 
 <h1 align="center">🏄‍♂️ Jimi Hlawe</h1>
