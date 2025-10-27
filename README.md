@@ -13,6 +13,8 @@ Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
 
+<br />
+
 <h1 align="center">🧰 Languages and Tools</h1>
 
 <p align="center">
@@ -33,6 +35,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 </p>
 
 ---
+<br />
 
 <h1 align="center">💡 About Me</h3>
 
