@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" alt="Typing Intro Animation" />
 </p>
 
-<h1 align="center">🏄‍♂️ Jimi Hlawe</h1>
+<h1 align="center">Jimi Hlawe 🏄‍♂️ </h1>
 <h3 align="center">Computer Science Student • Full-Stack & Game Development</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 <br />
 
-<h1 align="center">🧰 Languages and Tools</h1>
+<h3 align="center">Languages and Tools 🧰</h3>
 
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -37,7 +37,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 ---
 <br />
 
-<h1 align="center">💡 About Me</h3>
+<h3 align="center">About Me 💡</h3>
 
 > 🔭 I’m currently working on a full-stack **News Platform** and a **Unity RPG game project**  
 > 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
@@ -45,18 +45,17 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 > 🤔 I’m looking for help with **improving performance in large-scale web apps**
 
 ---
+<br />
 
-### 📊 Stats
-
+<h3 align="center">Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&theme=gruvbox&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Jimihlawe&theme=gruvbox&hide_border=true" height="165"/>
 </p>
 
 ---
-
-### 🌐 Socials
-
+<br />
+<h3 align="center">Socials 🌐</h3>
 <p align="center">
   <a href="https://discord.com/users/jimihlawe" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" />
