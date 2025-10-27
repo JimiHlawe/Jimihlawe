@@ -16,8 +16,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 </p>
 
 ---
-
-### 🧰 Languages and Tools
+<h1 align="center">🧰 Languages and Tools</h1>
 
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
