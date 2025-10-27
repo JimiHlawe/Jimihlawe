@@ -41,13 +41,18 @@ Here are some ideas to get you started:
 ### 📊 Stats
 
 ![Jimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Jimihlawe&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Jimihlawe&theme=gruvbox&border_radius=4.5)
 
 #
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/jimihlawe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Jimihlawe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jimihlawe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://discord.com/users/jimihlawe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Jimihlawe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/jimihlawe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/jmelhlawe/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="32" height="32" /></a>
+
+</p>
 
 <details>
  <summary><h3>👨‍💻 Jimi's Coding Journey</h3></summary>
