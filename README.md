@@ -24,6 +24,8 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354494/unity.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
+<img align="left" alt="FireBase" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+
 
 <br />
 <br />
