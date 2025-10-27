@@ -1,5 +1,3 @@
-<!-- Banner / Animation Header -->
-<!-- Banner / Animation Header -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" alt="Typing Intro Animation" />
@@ -14,7 +12,6 @@ I love creating clean, practical, and creative software that makes an impact.<br
 Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also developing games in <b>Unity</b> as a side passion.<br>
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
----
 
 <h1 align="center">🧰 Languages and Tools</h1>
 
