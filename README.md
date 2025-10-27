@@ -73,7 +73,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
   <summary><h3>👨‍💻 Jimi's Coding Journey</h3></summary>
 
 I am a third-year Computer Science student who loves to create and build new things with code.  
-My journey started from curiosity — I wanted to understand how apps and websites really work.  
+My journey started from curiosity , I wanted to understand how apps and websites really work.  
 Over time I learned how to plan, design, and build complete projects by myself, from start to finish.  
 
 I enjoy learning new technologies like C#, Java, JavaScript, SQL, and ASP.NET.  
