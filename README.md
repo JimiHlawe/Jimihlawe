@@ -1,10 +1,12 @@
+<!-- Hero / Typing Intro -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C45D&center=true&vCenter=true&width=480&lines=Hey+there!;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" alt="Typing Intro Animation" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Hey+there!;Full-Stack+and+Game+Developer;Turning+ideas+into+working+projects" 
+    alt="Typing Intro Animation" />
 </p>
 
-<h1 align="center">Jimi Hlawe 🏄‍♂️ </h1>
-<h3 align="center">Computer Science Student • Full-Stack & Game Development</h3>
+<h1 align="center">🏄‍♂️ Jimi Hlawe</h1>
+<h3 align="center" style="color:#58A6FF;">Computer Science Student • Full-Stack & Game Development</h3>
 
 <p align="center">
 I'm an indie full-stack developer. All coding projects are built from the ground up from planning and design to solving real-life problems with code.<br>
@@ -13,7 +15,9 @@ Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
 
-<h2 align="center">Languages and Tools 🧰</h2>
+---
+
+<h2 align="center">🧰 Languages and Tools</h2>
 
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -34,28 +38,36 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-<h2 align="center">About Me 💡</h2>
+<h2 align="center">💡 About Me</h2>
 
-> 🔭 I’m currently working on a full-stack **News Platform** and a **Unity RPG game project**  
-> 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
-> 👯 I’m looking to collaborate on **open-source web or indie game projects**  
-> 🤔 I’m looking for help with **improving performance in large-scale web apps**
-
----
-
-<h3 align="center">Stats 📊</h3>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&hide_border=false&border_radius=10&title_color=FF4D4D&icon_color=B0B0B0&text_color=C9D1D9&bg_color=0D1117" 
-    height="165" />
-  <img 
-    src="https://streak-stats.demolab.com?user=Jimihlawe&hide_border=false&border_radius=10&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=B0B0B0&sideNums=B0B0B0&currStreakLabel=FF4D4D&sideLabels=B0B0B0&dates=C9D1D9" 
-    height="165" />
+ 🔭 I’m currently working on a full-stack <b>News Platform</b> and a <b>Unity RPG game project</b><br>
+ 🌱 I’m currently learning <b>Cloud Deployment, AI APIs, and Game Systems Design</b><br>
+ 👯 I’m looking to collaborate on <b>open-source web or indie game projects</b><br>
+ 🤔 I’m looking for help with <b>improving performance in large-scale web apps</b>
 </p>
 
 ---
 
-<h2 align="center">Socials 🌐</h2>
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&hide_border=false&border_radius=10&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" 
+    height="165" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Jimihlawe&hide_border=false&border_radius=10&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FF4D4D&sideNums=58A6FF&currStreakLabel=FF4D4D&sideLabels=58A6FF&dates=C9D1D9" 
+    height="165" />
+</p>
+
+<p align="center">
+  <i style="color:#58A6FF;">activity • focus • consistency</i>
+</p>
+
+---
+
+<h2 align="center">🌐 Socials</h2>
+
 <p align="center">
   <a href="https://discord.com/users/jimihlawe" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" />
@@ -85,11 +97,14 @@ I also like working on creative projects such as games in Unity and full-stack w
 My goal is to become a strong and creative developer who builds useful and smart systems.
 </details>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jimihlawe&style=for-the-badge&color=orange" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jimihlawe&style=for-the-badge&color=58A6FF" alt="Profile views badge" />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Keep+pushing+forward" alt="Footer animation" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Keep+pushing+forward+🌊" 
+    alt="Footer animation" />
 </p>
