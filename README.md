@@ -1,4 +1,4 @@
-<h1 align="center">🏄‍♂️ Jimi Hlawe</h1>
+<h1 align="center"> Jimi Hlawe 🏄‍♂️</h1>
 <h3 align="center">Computer Science Student • Full-Stack & Game Development</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools 🧰
 
 <p align="center">
 <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,7 +31,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-### 💡 About Me
+### About Me 💡 
 
 > 🔭 I’m currently working on a full-stack **News Platform** and a **Unity RPG game project**  
 > 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
@@ -40,7 +40,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-### 📊 Stats
+### Stats 📊 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&theme=gruvbox" height="165"/>
@@ -49,7 +49,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-### 🌐 Socials
+### Socials 🌐 
 
 <p align="center">
 <a href="https://discord.com/users/jimihlawe" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" /></a>
@@ -61,7 +61,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 ---
 
 <details>
- <summary><h3>👨‍💻 Jimi's Coding Journey</h3></summary>
+ <summary><h3> Jimi's Coding Journey 👨‍💻</h3></summary>
 
 I am a third-year Computer Science student who loves to create and build new things with code.  
 My journey started from curiosity, I wanted to understand how apps and websites really work.  
