@@ -1,3 +1,8 @@
+<!-- Banner / Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C45D&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Jimi+👋;Full-Stack+%26+Game+Developer;Turning+ideas+into+working+projects!" alt="Typing SVG" />
+</p>
+
 <h1 align="center"> Jimi Hlawe 🏄‍♂️</h1>
 <h3 align="center">Computer Science Student • Full-Stack & Game Development</h3>
 
@@ -71,3 +76,15 @@ I enjoy learning new technologies like C#, Java, JavaScript, SQL, and ASP.NET.
 I also like working on creative projects such as games in Unity and full-stack web apps.  
 My goal is to become a strong and creative developer who builds useful and smart systems.
 </details>
+
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jimihlawe&style=for-the-badge&color=orange" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Jimi+Hlawe;Keep+Learning.+Keep+Building.+Keep+Creating." alt="footer animation" />
+</p>
