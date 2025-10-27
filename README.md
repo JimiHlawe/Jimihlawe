@@ -2,8 +2,6 @@
 
 **`Computer Science Student • Full-Stack & Game Development`**
 
-**Computer Science Student • Full-Stack & Game Development**
-
 I'm an indie full-stack developer. All coding projects are built from the ground up from planning and design to solving real-life problems with code.  
 I love creating clean, practical, and creative software that makes an impact.  
 Currently, I'm working on web apps with **ASP.NET, React, and SQL**, and also developing games in **Unity** as a side passion.  
