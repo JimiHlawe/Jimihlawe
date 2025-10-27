@@ -87,5 +87,7 @@ My goal is to become a strong and creative developer who builds useful and smart
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Made+with+❤️+by+Jimi+Hlawe;Keep+Learning.+Keep+Building.+Keep+Creating." alt="footer animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9CDCFE&center=true&vCenter=true&width=500&lines=Made+with+love+by+Jimi+Hlawe;Keep+Learning.+Keep+Building.+Keep+Creating." 
+    alt="Footer animation" />
 </p>
