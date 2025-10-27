@@ -34,7 +34,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-### 💡 About Me
+<h1 align="center">💡 About Me</h3>
 
 > 🔭 I’m currently working on a full-stack **News Platform** and a **Unity RPG game project**  
 > 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
