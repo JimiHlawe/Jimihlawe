@@ -13,8 +13,6 @@ Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
 
-<br />
-
 <h2 align="center">Languages and Tools 🧰</h2>
 
 <p align="center">
@@ -35,7 +33,6 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 </p>
 
 ---
-<br />
 
 <h2 align="center">About Me 💡</h2>
 
@@ -45,7 +42,6 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 > 🤔 I’m looking for help with **improving performance in large-scale web apps**
 
 ---
-<br />
 
 <h3 align="center">Stats 📊</h3>
 <p align="center">
@@ -54,7 +50,6 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 </p>
 
 ---
-<br />
 <h2 align="center">Socials 🌐</h2>
 <p align="center">
   <a href="https://discord.com/users/jimihlawe" target="_blank">
