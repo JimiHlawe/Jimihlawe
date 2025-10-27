@@ -46,10 +46,10 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 <h3 align="center">Stats 📊</h3>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&hide_border=false&border_radius=10&title_color=4EC9B0&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" 
+    src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&hide_border=false&border_radius=10&title_color=FF4D4D&icon_color=FF4D4D&text_color=C9D1D9&bg_color=0D1117" 
     height="165" />
   <img 
-    src="https://streak-stats.demolab.com?user=Jimihlawe&hide_border=false&border_radius=10&background=0D1117&ring=4EC9B0&fire=58A6FF&currStreakNum=4EC9B0&sideNums=58A6FF&currStreakLabel=4EC9B0&sideLabels=58A6FF&dates=C9D1D9" 
+    src="https://streak-stats.demolab.com?user=Jimihlawe&hide_border=false&border_radius=10&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FF4D4D&sideNums=FF4D4D&currStreakLabel=FF4D4D&sideLabels=FF4D4D&dates=C9D1D9" 
     height="165" />
 </p>
 
