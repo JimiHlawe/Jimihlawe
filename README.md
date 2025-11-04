@@ -51,7 +51,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-<h2 align="center">Socials 🌐</h2>
+<h2 align="center">Socials🌐</h2>
 
 <p align="center">
   <a href="https://discord.com/users/jimihlawe" target="_blank">
