@@ -42,7 +42,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 
 ---
 
-<h3 align="center">Stats 📊</h3>
+<h3 align="center">Stats📊</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jimihlawe&show_icons=true&hide_border=false&border_radius=10&title_color=FF4D4D&icon_color=B0B0B0&text_color=C9D1D9&bg_color=0D1117" height="165" />
