@@ -45,7 +45,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimihlawe&show_icons=true&title_color=FF4D4D&icon_color=B0B0B0&text_color=C9D1D9&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?user=jimihlawe&show_icons=true&title_color=FF4D4D&icon_color=B0B0B0&text_color=C9D1D9&bg_color=0D1117" />
 </p>
 
 <p align="center">
