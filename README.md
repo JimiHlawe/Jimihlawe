@@ -36,6 +36,7 @@ I enjoy learning new technologies, exploring AI integrations, and turning ideas 
 <h2 align="center">About Me 💡</h2>
 
 > 🔭 I’m currently working on a full-stack **E-Reader App Project with AI features** and a **Unity RPG game project**  and **AWS Drowning detector**
+> 
 > 🌱 I’m currently learning **Cloud Deployment, AI APIs, and Game Systems Design**  
 > 👯 I’m looking to collaborate on **open-source web or indie game projects**  
 > 🤔 I’m looking for help with **improving performance in large-scale web apps**
