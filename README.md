@@ -8,7 +8,7 @@
 <p align="center">
 I'm an indie full-stack developer. All coding projects are built from the ground up from planning and design to solving real-life problems with code.<br>
 I love creating clean, practical, and creative software that makes an impact.<br>
-Currently, I'm working on web apps with <b>ASP.NET, React, and SQL</b>, and also developing games in <b>Unity</b> as a side passion.<br>
+Currently, I'm working on web apps with <b>MERN Stack</b> and learning <b>AWS Services</b>, and also developing games in <b>Unity</b> as a side passion.<br>
 I enjoy learning new technologies, exploring AI integrations, and turning ideas into working products.
 </p>
 
